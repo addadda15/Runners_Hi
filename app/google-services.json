@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7475367023",
+    "project_id": "runnershi-final",
+    "storage_bucket": "runnershi-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7475367023:android:c1144f6243976ba170119a",
+        "android_client_info": {
+          "package_name": "com.example.runnershi_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7475367023-caj52to6ttvpmh72s5vhh20qeuin3ksi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxhUFqmDsVL6uCvWXHM7vckszpkdwQ10w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7475367023-caj52to6ttvpmh72s5vhh20qeuin3ksi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

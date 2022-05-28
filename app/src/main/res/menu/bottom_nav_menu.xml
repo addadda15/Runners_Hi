@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_run"
+        android:title="러닝"
+        android:icon="@drawable/ic_baseline_directions_run_24"/>
+    <item
+        android:id="@+id/menu_community"
+        android:title="커뮤니티"
+        android:icon="@drawable/ic_baseline_comment_24"/>
+    <item
+        android:id="@+id/menu_crew"
+        android:title="크루"
+        android:icon="@drawable/ic_baseline_groups_24"/>
+    <item
+        android:id="@+id/menu_my"
+        android:title="마이페이지"
+        android:icon="@drawable/ic_baseline_person_outline_24"/>
+</menu>

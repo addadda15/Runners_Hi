@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tag0"
+        android:title="코스추천" />
+    <item
+        android:id="@+id/tag1"
+        android:title="홍보" />
+    <item
+        android:id="@+id/tag2"
+        android:title="자유" />
+    <item
+        android:id="@+id/tag3"
+        android:title="같이뛰기" />
+    <item
+        android:id="@+id/tag4"
+        android:title="거래" />
+
+</menu>
